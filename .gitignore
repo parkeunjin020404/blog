@@ -50,6 +50,10 @@ data/*
 *.manifest
 *.spec
 
+# .gitignore
+cert/*
+init-letsencrypt.sh
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
